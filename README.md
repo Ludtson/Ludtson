@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Adekola Owoyemi
 
 🎓 Ph.D. Researcher — Ecology & Conservation Biology, Texas A&M University  
-🧬 Computational Genomics | Evolutionary Biology | Bioinformatics Pipelines  
+Computational Genomics | Evolutionary Biology | Bioinformatics Pipelines  
 
 ---
 
@@ -21,7 +21,7 @@ I build **scalable, reproducible bioinformatics pipelines** for evolutionary gen
 
 ## 🚀 Featured Project
 
-### 🧬 Protein Preprocessing & Isoform Selection Pipeline
+### Protein Preprocessing & Isoform Selection Pipeline
 A modular pipeline for:
 - Protein quality control  
 - Longest isoform selection  
@@ -36,11 +36,11 @@ A modular pipeline for:
 
 ## 🧪 Research Highlights
 
-- 🧠 Machine-learning framework for *de novo* gene prediction  
-- 🧬 Developer of LINGUA (lineage-based gene identification pipeline)  
-- 📊 Published in *Genome Biology & Evolution*  
-- 🌲 Southern Pine Beetle genome annotation project contributor  
-- 🧬 Work on analysis of microproteins and noncanonical ORFs  
+- Machine-learning framework for *de novo* gene prediction  
+- Developer of LINGUA (lineage-based gene identification pipeline)  
+- Published in *Genome Biology & Evolution*  
+- Southern Pine Beetle genome annotation project contributor  
+- Work on analysis of microproteins and noncanonical ORFs  
 
 ---
 
@@ -51,7 +51,7 @@ A modular pipeline for:
 - Bash / Shell scripting  
 - R, SQL  
 
-### 🧬 Bioinformatics
+### Bioinformatics
 - Sequence analysis (FASTA, GFF)  
 - HISAT2, STAR, BLAST, Minimap2  
 - BRAKER, AUGUSTUS, InterProScan  
@@ -74,10 +74,10 @@ A modular pipeline for:
 
 ## 🤝 Contact
 
-📧 ludtson@tamu.edu  
-🔗 https://github.com/Ludtson  
-🧬 ORCID: https://orcid.org/0000-0003-4251-5777  
+ludtson@tamu.edu  
+https://github.com/Ludtson  
+ORCID: https://orcid.org/0000-0003-4251-5777  
 
 ---
 
-💡 *Building research-grade computational genomics pipelines*
+*Building research-grade computational genomics pipelines*
