@@ -13,10 +13,10 @@ I study how new genes and proteins emerge and evolve, using comparative genomics
 
 ## Publications
 
-- Owoyemi et al. Degradation Determinants Are Abundant in Human Noncanonical Proteins and Minor Annotated Isoforms. *Genome Biology and Evolution*, 2026. [doi:10.1093/gbe/evag009](https://doi.org/10.1093/gbe/evag009)
-- Genome assembly of the southern pine beetle (*Dendroctonus frontalis* Zimmerman) reveals the origins of gene content reduction in *Dendroctonus*. *Royal Society Open Science*, 2024. [doi:10.1098/rsos.240755](https://doi.org/10.1098/rsos.240755)
-- Orphan genes are not a distinct biological entity. *BioEssays*, 2024. [doi:10.1002/bies.202400146](https://doi.org/10.1002/bies.202400146)
-- Accurate identification of de novo genes in plant genomes using machine learning algorithms. Preprint, bioRxiv, 2022. [doi:10.1101/2022.11.01.514720](https://doi.org/10.1101/2022.11.01.514720)
+- Casola C, **Owoyemi A**, Vakirlis N. Degradation Determinants Are Abundant in Human Noncanonical Proteins and Minor Annotated Isoforms. *Genome Biology and Evolution*, 2026. [doi:10.1093/gbe/evag009](https://doi.org/10.1093/gbe/evag009)
+- Copeland M, Landa S, **Owoyemi AO**, et al. Genome assembly of the southern pine beetle (*Dendroctonus frontalis* Zimmerman) reveals the origins of gene content reduction in *Dendroctonus*. *Royal Society Open Science*, 2024. [doi:10.1098/rsos.240755](https://doi.org/10.1098/rsos.240755)
+- Barboza Pereira A, Marano M, Bathala R, Ayala Zaragoza R, Neira A, Samano A, **Owoyemi A**, Casola C. Orphan genes are not a distinct biological entity. *BioEssays*, 2024. [doi:10.1002/bies.202400146](https://doi.org/10.1002/bies.202400146)
+- Casola C, **Owoyemi A**, Pepper AE, Ioerger TR. Accurate identification of de novo genes in plant genomes using machine learning algorithms. Preprint, bioRxiv, 2022. [doi:10.1101/2022.11.01.514720](https://doi.org/10.1101/2022.11.01.514720)
 
 Full list on [ORCID](https://orcid.org/0000-0003-4251-5777) or [Google Scholar](https://scholar.google.com/citations?user=1vpPbRQAAAAJ&hl=en).
 
