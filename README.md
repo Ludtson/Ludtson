@@ -26,9 +26,9 @@ Full list on [ORCID](https://orcid.org/0000-0003-4251-5777) or [Google Scholar](
 
 ## Technical background
 
-- Python (NumPy, Pandas, scikit-learn, TensorFlow), Bash, R, SQL
+- Python (NumPy, Pandas, scikit-learn), R, SQL, Bash
 - Sequence analysis: FASTA/GFF processing, HISAT2, STAR, BLAST, Minimap2, BRAKER, AUGUSTUS, InterProScan
-- Workflow and infrastructure: Snakemake, Nextflow, Docker, Singularity, Conda, SLURM/HPC
+- Infrastructure: Docker, Singularity, Conda, SLURM/HPC — multiple clusters over several years, including Texas A&M HPRC and an Alabama HPC system during my MS
 
 ## Education
 
