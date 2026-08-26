@@ -32,7 +32,7 @@ Full list on [ORCID](https://orcid.org/0000-0003-4251-5777) or [Google Scholar](
 
 ## Education
 
-- PhD, Texas A&M University, 2022–2026
+- PhD, Texas A&M University, 2022–Present
 - MS, Auburn University, 2019–2021
 - BS, University of Lagos, 2007–2011
 
