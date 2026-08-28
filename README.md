@@ -20,9 +20,12 @@ I study how new genes and proteins emerge and evolve, using comparative genomics
 
 Full list on [ORCID](https://orcid.org/0000-0003-4251-5777) or [Google Scholar](https://scholar.google.com/citations?user=1vpPbRQAAAAJ&hl=en).
 
-## Featured project
+## Featured projects
 
-**[Protein Preprocessing & Isoform Selection Pipeline](https://github.com/Ludtson/protein-preprocessing-isoform-pipeline)** — a reproducible pipeline for protein-level quality control and longest-isoform selection across multi-species GFF/protein FASTA datasets, built for comparative genomics workflows. Used in my dissertation work on Brassicaceae de novo gene analysis.
+Two stages of **LINGUA**, my dissertation's comparative genomics framework for de novo gene identification:
+
+- **[Gene Stratigraphy Pipeline](https://github.com/Ludtson/gene-stratigraphy-pipeline)** — classifies genes by phylogenetic depth of origin from OrthoFinder's orthology output, producing candidate lineage-specific genes with a mandatory cross-check against structural blind spots in HOG-based classification.
+- **[Protein Preprocessing & Isoform Selection Pipeline](https://github.com/Ludtson/protein-preprocessing-isoform-pipeline)** — protein-level quality control and longest-isoform selection across multi-species GFF/protein FASTA datasets. Used in my dissertation work on Brassicaceae de novo gene analysis.
 
 ## Technical background
 
